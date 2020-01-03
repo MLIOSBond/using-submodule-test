@@ -1,0 +1,3 @@
+[submodule "extern/submodule-test"]
+	path = extern/submodule-test
+	url = https://github.com/MLIOSBond/submodule-test.git
